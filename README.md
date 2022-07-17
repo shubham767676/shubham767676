@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Docker**
-
-- 🌱 I’m currently learning **Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shubham767676](https://github.com/shubham767676)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Hey 👋, This is Shubham Singh
+[![Gmail Badge](https://img.shields.io/badge/-shubhamv.singh06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shubhamv.singh06@gmail.com)](mailto:shubhamv.singh06@gmail.com) [![Github Badge](https://img.shields.io/badge/-shubham767676-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shubham767676/)](https://www.github.com/shubham767676/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/SurajChaudhary9/)](https://github.com/SurajChaudhary9/) <p align='left'>Passionate DevOps Engineer looking forward for opportunities in Docker, Kubernetes, Jenkins and open for opportunities.
+<br /> Cloud Computing | Blockchain | AWS | Saas Development
 </p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=shubham767676 alt=shubham767676 /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=shubham767676&show_icons=true&include_all_commits=true)](https://github.com/shubham767676/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham767676&layout=compact)](https://github.com/shubham767676/github-readme-stats)
